@@ -4,7 +4,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
 /*                    Exercício Solicitado
         - Descruba o timelnMillis do dia que você nasceu;
         - Converta em um objeto Date;
