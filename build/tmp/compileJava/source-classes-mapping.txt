@@ -2,7 +2,7 @@ atividades/AtividadeCalendar.java
  atividades.AtividadeCalendar
 atividades/AtividadeDate.java
  atividades.AtividadeDate
-StartNew.java
- StartNew
 atividades/AtividadeDateFormat.java
  atividades.AtividadeDateFormat
+StartNew.java
+ StartNew
